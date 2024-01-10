@@ -26,3 +26,4 @@ C:\EXERCICIOSDIARIOSCSHARP\Exerc-1-ContaBancaria\obj\Debug\net8.0\refint\Console
 C:\EXERCICIOSDIARIOSCSHARP\Exerc-1-ContaBancaria\obj\Debug\net8.0\ConsoleApp1.pdb
 C:\EXERCICIOSDIARIOSCSHARP\Exerc-1-ContaBancaria\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
 C:\EXERCICIOSDIARIOSCSHARP\Exerc-1-ContaBancaria\obj\Debug\net8.0\ref\ConsoleApp1.dll
+C:\ExerciciosDiariosCSharp\Exerc-1-ContaBancaria\obj\Debug\net8.0\ConsoleApp1.sourcelink.json
